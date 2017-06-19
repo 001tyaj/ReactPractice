@@ -1,2 +1,2 @@
-# ReactPractice
-A simple React Practice
+# appPractice
+A simple app practice
